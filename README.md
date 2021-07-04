@@ -1,7 +1,7 @@
-# competitive-programming
+# Competitive Programming
 
-##LIST PROBLEM IN THIS REPOSITORY
+## LIST PROBLEM IN THIS REPOSITORY
 
-###1. Prime Number (go)
+### 1. Prime Number (go)
 
-###2. [Hackerrank Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem) 
+### 2. [Hackerrank Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem) 
