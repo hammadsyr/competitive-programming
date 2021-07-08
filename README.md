@@ -25,3 +25,5 @@
 ### 11. [Hackerrank Birthday Cake Candles (kotlin)](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
 
 ### 12. [Hackerrank Mini Max Sum (kotlin)](https://www.hackerrank.com/challenges/mini-max-sum/problem)
+
+### 13. [Hackerrank Sparse Arrays (go)](https://www.hackerrank.com/challenges/sparse-arrays/problem)
